@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 #### Operating Systems
 
   ![](https://img.shields.io/badge/-MacOS-000?style=flat&logo=apple&logoColor=white)
@@ -12,14 +16,14 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3&logoColor=white)
   ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-circle&logo=sass&logoColor=white)
   ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-circle&logo=javascript&logoColor=000)
-  
-#### Frameworks  
+
+#### Frameworks
 
   ![](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
   ![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![](https://img.shields.io/badge/-Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
 
-  
+
 #### Tools
 
   ![](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudio&logoColor=white)
