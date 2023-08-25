@@ -28,11 +28,11 @@
 
   ![](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudio&logoColor=white)
   ![](https://img.shields.io/badge/-Oh_my_Zsh-black?style=flat&logo=windows-terminal&logoColor=white)
-  ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![](https://img.shields.io/badge/-Contentful-2478CC?style=flat&logo=contentful&logoColor=white)
+  ![](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
   ![](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana&logoColor=white)
-  ![](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-  ![](https://img.shields.io/badge/-Contentful-2478CC?style=flat&logo=contentful&logoColor=white)
+  ![](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white)
   ![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
