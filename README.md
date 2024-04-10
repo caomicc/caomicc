@@ -1,7 +1,7 @@
 <h2> Hi, I'm Cammy! <img src="https://media.giphy.com/media/WFEpbNDqjs312EZ06H/giphy.gif" width="50"></h2>
-<p><em>Senior Front End Web Developer at <a href="http://workhuman.com">Workhuman</a><img src="https://images.ctfassets.net/hff6luki1ys4/X1kMrXjaRqPywVHz2r343/9be6a49556aaa859e258725d744d1b31/whicon-social-recognition.svg" width="30"></em></p>
+<p><em>Senior Front End Web Developer at <a href="http://workhuman.com">Workhuman</a> <img src="https://images.ctfassets.net/hff6luki1ys4/X1kMrXjaRqPywVHz2r343/9be6a49556aaa859e258725d744d1b31/whicon-social-recognition.svg" width="16"></em></p>
 
-[![Linkedin: caomicc](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caomicc/)](https://www.linkedin.com/in/caomicc/)
+[![Linkedin: caomicc](https://img.shields.io/badge/-caomicc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caomicc/)](https://www.linkedin.com/in/caomicc/)
 
 #### Operating Systems
 
