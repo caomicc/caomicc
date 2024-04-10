@@ -1,9 +1,7 @@
 ### 👀
 
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 #### Operating Systems
 
@@ -21,7 +19,6 @@
 
   ![](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
   ![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![](https://img.shields.io/badge/-Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
 
 
 #### Tools
