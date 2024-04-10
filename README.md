@@ -2,66 +2,6 @@
 <p><em>Senior Front End Web Developer at <a href="http://workhuman.com">Workhuman</a><img src="https://images.ctfassets.net/hff6luki1ys4/X1kMrXjaRqPywVHz2r343/9be6a49556aaa859e258725d744d1b31/whicon-social-recognition.svg" width="30"></em></p>
 
 [![Linkedin: caomicc](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caomicc/)](https://www.linkedin.com/in/caomicc/)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2019%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📅 **I'm Most Productive on Thursday**
-
-```text
-Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-Tuesday                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Wednesday                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Thursday                 212 commits         ████████████░░░░░░░░░░░░░   47.11 %
-Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Saturday                 8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages:
-TypeScript               15 hrs 58 mins      ███████████████████████░░   92.37 %
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Image (svg)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-
-🔥 Editors:
-VS Code                  17 hrs 17 mins      █████████████████████████   100.00 %
-
-🐱‍💻 Projects:
-magma                    16 hrs 46 mins      ████████████████████████░   97.06 %
-gratitudebar             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-
-💻 Operating System:
-Mac                      17 hrs 17 mins      █████████████████████████   100.00 %
-```
-
-**I Mostly Code in TypeScript**
-
-```text
-TypeScript               7 repos             ████████████░░░░░░░░░░░░░   46.67 %
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/caomicc/caomicc/main/assets/bar_graph.png)
-
-
- Last Updated on 10/04/2024 18:36:13 UTC
-<!--END_SECTION:waka-->
 
 #### Operating Systems
 
