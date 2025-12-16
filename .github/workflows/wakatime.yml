@@ -5,9 +5,10 @@ on:
   push:
   schedule:
     - cron: '30 18 * * *'
-
+    
 permissions:
   contents: write
+  actions: read
 
 jobs:
   update-readme:
