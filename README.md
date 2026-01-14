@@ -1,5 +1,5 @@
 <h2> Hi, I'm Cammy! </h2>
-<p><em>Senior Web Developer at <a href="http://workhuman.com">Workhuman</a> <img src="https://images.ctfassets.net/hff6luki1ys4/X1kMrXjaRqPywVHz2r343/9be6a49556aaa859e258725d744d1b31/whicon-social-recognition.svg" width="16"></em>, Owner of <a href="http://polisheddex.app">PolishedDex</a></p>.
+<p><em>Senior Web Developer at <a href="http://workhuman.com">Workhuman</a> <img src="https://images.ctfassets.net/hff6luki1ys4/X1kMrXjaRqPywVHz2r343/9be6a49556aaa859e258725d744d1b31/whicon-social-recognition.svg" width="16"></em>, Owner of <a href="http://polisheddex.app">PolishedDex</a></p>
 
 
 <!--START_SECTION:waka-->
