@@ -44,16 +44,16 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 24 mins       █████████████████░░░░░░░░   69.76 % 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-CSS                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TypeScript               3 hrs 59 mins       ███████████████████░░░░░░   75.44 % 
+CSS                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Git                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🐱‍💻 Projects: 
-magma                    5 hrs 21 mins       █████████████████████░░░░   84.83 % 
-devquoted                55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-polished-dex             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+magma                    4 hrs 20 mins       █████████████████████░░░░   82.14 % 
+devquoted                55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+polished-dex             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -69,5 +69,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/23/2026 19:57:01 UTC
+ Last Updated on 07/24/2026 19:56:41 UTC
 <!--END_SECTION:waka-->
