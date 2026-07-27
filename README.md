@@ -3,7 +3,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C926%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2018%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
@@ -11,7 +13,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,001 Contributions in the Year 2026
+> 🏆 2,007 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,17 +48,42 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               3 hrs 59 mins       █████████████████░░░░░░░░   68.15 % 
-JSON                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-CSS                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-RGBDS Assembly           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+TypeScript               6 hrs 15 mins       ██████████████████░░░░░░░   70.47 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+CSS                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+MDX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🐱‍💻 Projects: 
-magma                    4 hrs 54 mins       █████████████████████░░░░   83.83 % 
-devquoted                25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-polished-dex             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-polishedcrystal          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+magma                    4 hrs 54 mins       ██████████████░░░░░░░░░░░   55.20 % 
+polished-dex             3 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.40 % 
+polishedcrystal          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+pokeemerald              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 54 mins (77.7%)
+
+✍️ 3,949 lines written by AI, 195 lines written by hand (95.29% AI-written)
+
+🔤 229,401,758 Input Tokens, 387,449 Output Tokens
+
+💵 $719.55 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 68 AI Prompts
+
+Opus                     2,385 lines         ███████████████░░░░░░░░░░   59.67 % 
+Sonnet                   1,589 lines         ██████████░░░░░░░░░░░░░░░   39.75 % 
+Github-Copilot           23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.29% of written lines came from AI
+📚 Verbose Prompter — average 3,446 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 5.91% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/26/2026 19:45:00 UTC
+ Last Updated on 07/27/2026 20:06:06 UTC
 <!--END_SECTION:waka-->
