@@ -13,7 +13,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,013 Contributions in the Year 2026
+> 🏆 2,014 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,43 +48,42 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               8 hrs 43 mins       ████████████████░░░░░░░░░   65.32 % 
-Markdown                 2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-MDX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+TypeScript               8 hrs 8 mins        ███████████████░░░░░░░░░░   60.17 % 
+Markdown                 2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-polished-dex             6 hrs 26 mins       ████████████░░░░░░░░░░░░░   48.25 % 
-magma                    5 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.62 % 
-tmp                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-polishedcrystal          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-pokeemerald              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+polished-dex             6 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.70 % 
+magma                    5 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.10 % 
+tmp                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+polishedcrystal          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+pokeemerald              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 29 mins (93.5%)
+⏱ AI Coding Time: 12 hrs 58 mins (95.92%)
 
-✍️ 2,745 lines written by AI, 11 lines written by hand (99.6% AI-written)
+✍️ 2,267 lines written by AI, 10 lines written by hand (99.56% AI-written)
 
-🔤 327,985,264 Input Tokens, 772,978 Output Tokens
+🔤 340,613,117 Input Tokens, 826,748 Output Tokens
 
-💵 $1093.04 Estimated AI Cost This Week
+💵 $1163.13 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 104 AI Prompts
+🧠 13 AI Sessions, 92 AI Prompts
 
-Opus                     2,480 lines         ██████████████░░░░░░░░░░░   57.74 % 
-Sonnet                   1,792 lines         ██████████░░░░░░░░░░░░░░░   41.72 % 
-Github-Copilot           23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,340 lines         ██████████████░░░░░░░░░░░   56.32 % 
+Sonnet                   1,792 lines         ███████████░░░░░░░░░░░░░░   43.13 % 
+Github-Copilot           23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.6% of written lines came from AI
-📚 Verbose Prompter — average 3,536 characters per prompt
+🤖 AI-Driven — 99.56% of written lines came from AI
+📚 Verbose Prompter — average 2,411 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.1% of changed lines were hand-edited
+🚀 High AI Trust — 1.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,5 +99,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/29/2026 19:53:25 UTC
+ Last Updated on 07/30/2026 20:03:33 UTC
 <!--END_SECTION:waka-->
