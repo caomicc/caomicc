@@ -22,4 +22,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_AI_CODING: "False"
           
