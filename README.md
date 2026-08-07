@@ -3,21 +3,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C903%20hrs%2035%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs%2056%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,055 Contributions in the Year 2026
+> 🏆 2,066 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -48,32 +44,32 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 3 hrs 48 mins       ██████████████░░░░░░░░░░░   54.73 % 
-TypeScript               2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.76 % 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+TypeScript               4 hrs 7 mins        ██████████████░░░░░░░░░░░   55.79 % 
+Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+CSS                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+MDX                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🐱‍💻 Projects: 
-magma                    4 hrs 38 mins       █████████████████░░░░░░░░   66.78 % 
-cameronomiccioli         1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-polished-dex             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-tmp                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-toolu_bdrk_01GLqniHdaroxK5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+magma                    6 hrs 59 mins       ████████████████████████░   94.48 % 
+polished-dex             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+toolu_bdrk_01GLqniHdaroxK5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+cameronomiccioli         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               9 repos             ██████████░░░░░░░░░░░░░░░   40.91 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 08/05/2026 20:09:25 UTC
+ Last Updated on 08/07/2026 00:25:26 UTC
 <!--END_SECTION:waka-->
