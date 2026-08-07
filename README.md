@@ -3,13 +3,17 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C907%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-228%20hrs%2012%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,066 Contributions in the Year 2026
+> 🏆 2,073 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,17 +48,16 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 7 mins        ██████████████░░░░░░░░░░░   55.79 % 
-Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-CSS                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-MDX                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+TypeScript               5 hrs 23 mins       █████████████████░░░░░░░░   66.37 % 
+CSS                      1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+MDX                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🐱‍💻 Projects: 
-magma                    6 hrs 59 mins       ████████████████████████░   94.48 % 
-polished-dex             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-toolu_bdrk_01GLqniHdaroxK5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-cameronomiccioli         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+magma                    7 hrs 43 mins       ████████████████████████░   95.13 % 
+polished-dex             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+toolu_bdrk_01GLqniHdaroxK5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -71,5 +74,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2026 00:25:26 UTC
+ Last Updated on 08/07/2026 19:30:51 UTC
 <!--END_SECTION:waka-->
