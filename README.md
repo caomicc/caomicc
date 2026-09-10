@@ -3,9 +3,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C957%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C959%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-269%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-271%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,467 Contributions in the Year 2026
+> 🏆 2,481 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,18 +48,18 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               5 hrs 49 mins       ██████████████░░░░░░░░░░░   55.08 % 
-C++                      1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-HTML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+TypeScript               4 hrs 22 mins       ████████████░░░░░░░░░░░░░   47.30 % 
+Markdown                 1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+C++                      1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🐱‍💻 Projects: 
-magma                    5 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.78 % 
-mood_clip                2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-polished-dex             2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-quick-contentful-manageme42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+magma                    4 hrs 46 mins       █████████████░░░░░░░░░░░░   51.63 % 
+mood_clip                2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+polished-dex             1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+quick-contentful-manageme42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 21:06:24 UTC
+ Last Updated on 09/10/2026 21:06:22 UTC
 <!--END_SECTION:waka-->
