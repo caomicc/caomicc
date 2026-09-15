@@ -3,9 +3,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C962%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C965%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-274%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,542 Contributions in the Year 2026
+> 🏆 2,558 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,18 +48,18 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.06 % 
-Markdown                 1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-C++                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Image (svg)              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+TypeScript               4 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.78 % 
+Markdown                 2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+C++                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🐱‍💻 Projects: 
-magma                    3 hrs 24 mins       █████████████░░░░░░░░░░░░   50.97 % 
-marketing-enablement     2 hrs               ████████░░░░░░░░░░░░░░░░░   30.16 % 
-mood_clip                1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-contentful-workspace     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+marketing-enablement     4 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
+magma                    4 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.39 % 
+mood_clip                1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+contentful-workspace     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/14/2026 21:58:15 UTC
+ Last Updated on 09/15/2026 21:40:01 UTC
 <!--END_SECTION:waka-->
