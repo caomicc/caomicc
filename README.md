@@ -3,9 +3,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C002%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C005%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-312%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-315%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,033 Contributions in the Year 2026
+> 🏆 3,037 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,16 +48,18 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 10 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   41.68 % 
-TypeScript               7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
-Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-JSON                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown                 10 hrs 33 mins      ████████████░░░░░░░░░░░░░   46.77 % 
+TypeScript               6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+JSON                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+HTML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🐱‍💻 Projects: 
-magma                    21 hrs 46 mins      ██████████████████████░░░   87.73 % 
-marketing-enablement     3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-gtm                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+magma                    20 hrs 55 mins      ███████████████████████░░   92.70 % 
+marketing-enablement     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+hero-census              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+sitemap                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+pa-assets-dl             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 23:31:22 UTC
+ Last Updated on 10/09/2026 22:49:26 UTC
 <!--END_SECTION:waka-->
