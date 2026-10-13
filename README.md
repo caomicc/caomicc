@@ -48,18 +48,18 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 10 hrs 53 mins      ███████████░░░░░░░░░░░░░░   45.46 % 
-TypeScript               6 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-Other                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-JSON                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-HTML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Markdown                 8 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.30 % 
+TypeScript               4 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+Other                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+HTML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 🐱‍💻 Projects: 
-magma                    22 hrs 18 mins      ███████████████████████░░   93.13 % 
-marketing-enablement     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-hero-census              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-sitemap                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-pa-assets-dl             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+magma                    17 hrs 45 mins      ████████████████████████░   94.31 % 
+hero-census              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+sitemap                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+pa-assets-dl             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+marketing-enablement     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +75,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/13/2026 00:56:08 UTC
+ Last Updated on 10/13/2026 23:01:49 UTC
 <!--END_SECTION:waka-->
