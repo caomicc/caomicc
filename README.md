@@ -3,9 +3,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C064%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C073%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-376%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-385%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.00%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,14 +48,17 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 14 hrs              ████████░░░░░░░░░░░░░░░░░   34.00 % 
-TypeScript               10 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-JavaScript               9 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Text                     2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-JSON                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Markdown                 13 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   32.83 % 
+TypeScript               10 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+JavaScript               10 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+JSON                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Text                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🐱‍💻 Projects: 
-magma                    41 hrs 13 mins      █████████████████████████   100.00 % 
+magma                    39 hrs 52 mins      █████████████████████████   98.22 % 
+marketing-enablement     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+cameron.omiccioli        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+quick-contentful-manageme0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -71,5 +74,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/28/2026 22:46:39 UTC
+ Last Updated on 10/29/2026 22:55:29 UTC
 <!--END_SECTION:waka-->
