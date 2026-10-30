@@ -3,9 +3,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C073%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C074%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-385%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.00%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,16 +48,16 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 13 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   32.83 % 
-TypeScript               10 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-JavaScript               10 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-JSON                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Text                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Markdown                 11 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   36.14 % 
+JavaScript               8 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+TypeScript               6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+JSON                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Text                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🐱‍💻 Projects: 
-magma                    39 hrs 52 mins      █████████████████████████   98.22 % 
-marketing-enablement     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-cameron.omiccioli        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+magma                    30 hrs 39 mins      ████████████████████████░   97.70 % 
+marketing-enablement     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+cameron.omiccioli        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 quick-contentful-manageme0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -74,5 +74,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/29/2026 22:55:29 UTC
+ Last Updated on 10/30/2026 22:35:47 UTC
 <!--END_SECTION:waka-->
